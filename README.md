@@ -54,7 +54,4 @@ docker.jsdelivr.fyi
 dockertest.jsdelivr.fyi
 ```
 
-# 鸣谢
-
-[muzihuaner](https://github.com/muzihuaner)、[V2ex网友](https://global.v2ex.com/t/1007922) 、[ChatGPT](https://chatgpt.com/)、[白嫖哥](https://t.me/bestcfipas/1900)、[Free镜像服务](https://t.me/zero_free/80)
 
